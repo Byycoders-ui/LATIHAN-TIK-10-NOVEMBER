@@ -11,4 +11,12 @@ body {
   background-color: whitw;
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(o,o,o,o.1);
+  text-align: center; 
 }
+
+.kartu-profil img {
+  width: 150px;
+  border-radius: 50%;
+}
+.kartu-profil {
+  /*... ...*/
