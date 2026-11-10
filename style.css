@@ -1,0 +1,14 @@
+body {
+  background-color: #FFFFE0; /' warna kuning cerah '/
+  font-family: Arial, sans-serif; /' jenis hurufyang bersih dan mudah dibaca '/
+  color: #191970;
+}
+
+.kartu profil {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px
+  background-color: whitw;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(o,o,o,o.1);
+}
